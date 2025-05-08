@@ -1,0 +1,29 @@
+{
+    "usuarios":[    
+        {
+            "id":"1",
+            "nome":"C. Ronaldo",
+            "email":"cr7@gmail.com",
+            "senha":"7"
+        },
+        {
+            "id":"2",
+            "nome":"Neymar",
+            "email":"neymar@gmail.com",
+            "senha":"11"
+        },
+        {
+            "id":"3",
+            "nome":"Messi",
+            "email":"messi@gmail.com",
+            "senha":"10"
+        }
+    ],
+    "produtos":[
+
+    ],
+    "categorias":[
+
+    ]
+
+}
