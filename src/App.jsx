@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Container from "react-bootstrap/Container";
 
 
-import BarraNavegacao from "./components/BarraNavegacao.jsx";
+import BarraNavegacao from "./components/BarraNavegaçao.jsx";
 
 import { AuthProvider } from "./contexts/UserContext.jsx";
 

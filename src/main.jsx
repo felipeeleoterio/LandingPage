@@ -6,7 +6,7 @@ import './index.css'
 import { RouterProvider } from "react-router-dom"
 
 // Importa a constante criada com as rotas estabelecidas
-import MyRouter from "./MyRouter.jsx"
+import MyRouter from "./myRouter.jsx"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>

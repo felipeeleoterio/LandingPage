@@ -9,7 +9,7 @@ import Alert from "react-bootstrap/Alert";
 import { useForm } from "react-hook-form";
 import { BsBoxArrowInRight } from "react-icons/bs";
 import { useState } from "react";
-import { useVerificaLogin } from "./hooks/useApi.js";
+import { useVerificaLogin } from "../hooks/useApi.js";
 import { useNavigate } from "react-router-dom";
 
 const Login = () => {
